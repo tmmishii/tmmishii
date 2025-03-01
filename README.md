@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @tmmishii
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning JavaScript but also challanging some html/css project as recap.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm tmmishii!
+I'm on a journey to master **JavaScript** and frontend development. This GitHub showcases my learning progress and projects. 🚀
 
-<!---
-tmmishii/tmmishii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔥 My Learning Path
+- ✅ JavaScript Basics (Variables, Functions, Loops)
+- ✅ DOM Manipulation
+- ✅ Event Delegation
+- ✅ Closures & Scope Chain
+- ✅ Asynchronous JavaScript (Promises, Async/Await)
+- 🔄 Currently Learning: ES Modules & CommonJS
+- 🔜 Next: 
+
+## 🏗️ My Projects
+
+
+## ✨ Technologies I'm Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+
+## 📝 Blog-Style Learning Logs
+I document my JavaScript journey:
+- [Understanding `this` in JavaScript]
+- [Sorting Arrays with `.sort()`]
+
+
+📬 **Let's connect!**  
+💼 [LinkedIn]() | 🌐 [Portfolio] coming soon.
+
+---
