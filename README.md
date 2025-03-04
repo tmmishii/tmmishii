@@ -21,7 +21,7 @@ I'm on a journey to master **JavaScript** and frontend development. This GitHub 
 
 ## 📝 Blog-Style Learning Logs
 I document my JavaScript journey:
-- [daily learning updates]
+- [daily learning updates](https://github.com/tmmishii/javascript-learning-journey/blob/main/daily-updates.md)
 
 
 
