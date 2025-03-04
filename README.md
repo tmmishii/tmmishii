@@ -21,11 +21,8 @@ I'm on a journey to master **JavaScript** and frontend development. This GitHub 
 
 ## 📝 Blog-Style Learning Logs
 I document my JavaScript journey:
-- [Understanding `this` in JavaScript]
-- [Sorting Arrays with `.sort()`]
+- [daily learning updates]
 
 
-📬 **Let's connect!**  
-💼 [LinkedIn]() | 🌐 [Portfolio] coming soon.
 
 ---
