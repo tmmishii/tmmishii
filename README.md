@@ -7,7 +7,8 @@ I'm on a journey to master **JavaScript** and frontend development. This GitHub 
 - ✅ Event Delegation
 - ✅ Closures & Scope Chain
 - ✅ Asynchronous JavaScript (Promises, Async/Await)
-- 🔄 Currently Learning: ES Modules & CommonJS
+- ✅ ES Modules & CommonJS
+- 🔄 Currently Learning: React
 - 🔜 Next: 
 
 ## 🏗️ My Projects
@@ -23,6 +24,6 @@ I'm on a journey to master **JavaScript** and frontend development. This GitHub 
 I document my JavaScript journey:
 - [daily learning updates](https://github.com/tmmishii/javascript-learning-journey/blob/main/daily-updates.md)
 
-
+I document my React journey:
 
 ---
